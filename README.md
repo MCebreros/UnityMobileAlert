@@ -1,6 +1,6 @@
 # Unity Mobile Message
 
-Simple class that pops an iOS alert or an Android toast depending on what platform the code is running.
+Simple class that pops an iOS alert or an Android toast or an editor log, depending on what platform the code is running.
 
 Usage example:
 
